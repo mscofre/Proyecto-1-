@@ -34,6 +34,7 @@ public class Practica1 {
             System.out.println("Eres menor de edad");
         }
          System.out.println("Esto fue realizado por Michael Cofre");
+         sc.close();
     }
     
 }
